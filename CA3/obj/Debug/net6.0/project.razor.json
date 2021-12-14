@@ -12,39 +12,6 @@
   "ProjectWorkspaceState": {
     "TagHelpers": [
       {
-        "HashCode": 264465126,
-        "Kind": "Components.Component",
-        "Name": "CA3.Pages.Counter",
-        "AssemblyName": "CA3",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Counter"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "CA3.Pages.Counter"
-        }
-      },
-      {
-        "HashCode": -1820943877,
-        "Kind": "Components.Component",
-        "Name": "CA3.Pages.Counter",
-        "AssemblyName": "CA3",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "CA3.Pages.Counter"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "CA3.Pages.Counter",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
         "HashCode": -398618564,
         "Kind": "Components.Component",
         "Name": "CA3.Pages.FetchData",
@@ -74,6 +41,39 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "CA3.Pages.FetchData",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 264465126,
+        "Kind": "Components.Component",
+        "Name": "CA3.Pages.Counter",
+        "AssemblyName": "CA3",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Counter"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "CA3.Pages.Counter"
+        }
+      },
+      {
+        "HashCode": -1820943877,
+        "Kind": "Components.Component",
+        "Name": "CA3.Pages.Counter",
+        "AssemblyName": "CA3",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "CA3.Pages.Counter"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "CA3.Pages.Counter",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -16629,6 +16629,11 @@
     {
       "FilePath": "t:\\College\\EAD\\CA3\\EADCA3\\CA3\\Pages\\_Host.cshtml",
       "TargetPath": "Pages\\_Host.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "t:\\College\\EAD\\CA3\\EADCA3\\CA3\\Pages\\MapGame.cshtml",
+      "TargetPath": "Pages\\MapGame.cshtml",
       "FileKind": "mvc"
     },
     {

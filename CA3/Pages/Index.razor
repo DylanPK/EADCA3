@@ -7,6 +7,13 @@
 @inject IJSRuntime JSRuntime
 
 <h1>Display Google Map</h1>
+  <body>
+      <input
+      id="pac-input"
+      class="controls"
+      type="text"
+      placeholder="Search Box"
+    /></body>
 <div id="map" style="height:500px;width:100%;">
 </div>
 
@@ -15,7 +22,7 @@
     {
         if (firstRender)
         {
-            await JSRuntime.InvokeVoidAsync("initialize", null); 
+            await JSRuntime.InvokeVoidAsync("initMap", null); 
         }
     }
 }

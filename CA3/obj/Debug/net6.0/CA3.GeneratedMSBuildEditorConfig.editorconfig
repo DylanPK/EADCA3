@@ -51,6 +51,10 @@ build_metadata.AdditionalFiles.CssScope = b-oihay5ykbv
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[T:/College/EAD/CA3/EADCA3/CA3/Pages/MapGame.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWFwR2FtZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [T:/College/EAD/CA3/EADCA3/CA3/Pages/_Host.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0hvc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
