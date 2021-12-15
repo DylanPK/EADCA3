@@ -4,14 +4,15 @@
 <PageTitle>Map Game</PageTitle>
 
 <h1>Map Game</h1>
-
+<div id="map" style="height:500px;width:100%;">
+</div>
 
 @code{
-    protected override async Task OnAfterRenderAsync(bool firstRender)
+    protected new async Task OnAfterRenderAsync(bool firstRender)
     {
         if (firstRender)
         {
-            await JSRuntime.InvokeVoidAsync("initMap", null); 
+            await JSRuntime.InvokeVoidAsync("initMapGame", null); 
         }
     }
 }

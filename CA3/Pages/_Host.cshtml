@@ -18,22 +18,15 @@
 
     <title>Geolocation</title>
     <script src="https://polyfill.io/v3/polyfill.min.js?features=default"></script>
-    <link rel="stylesheet" type="text/css" href="./style.css" />
+    <link rel="stylesheet" type="text/css" href="EADCA3\CA3\wwwroot\css\site.css" />
   </head>
   <body>
-      @* <input
-      id="pac-input"
-      class="controls"
-      type="text"
-      placeholder="Search Box"
-    />
 
-    <div id="map"></div> *@
 
     <!-- Async script executes immediately and must be after any DOM elements used in callback. -->
     <script
       src="https://maps.googleapis.com/maps/api/js?key=AIzaSyA4B-c8-2EWEvKPbO5SxrbyALupsO7_SdM&callback=initMap&libraries=places&v=weekly"
-      async
+      async defer
     ></script>
   </body>
 </html

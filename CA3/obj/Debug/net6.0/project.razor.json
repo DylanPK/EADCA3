@@ -45,6 +45,39 @@
         }
       },
       {
+        "HashCode": -2053787873,
+        "Kind": "Components.Component",
+        "Name": "CA3.Pages.Index",
+        "AssemblyName": "CA3",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "CA3.Pages.Index"
+        }
+      },
+      {
+        "HashCode": -219990946,
+        "Kind": "Components.Component",
+        "Name": "CA3.Pages.Index",
+        "AssemblyName": "CA3",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "CA3.Pages.Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "CA3.Pages.Index",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": 264465126,
         "Kind": "Components.Component",
         "Name": "CA3.Pages.Counter",
@@ -78,35 +111,35 @@
         }
       },
       {
-        "HashCode": -2053787873,
+        "HashCode": -734163665,
         "Kind": "Components.Component",
-        "Name": "CA3.Pages.Index",
+        "Name": "CA3.App",
         "AssemblyName": "CA3",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "Index"
+            "TagName": "App"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "CA3.Pages.Index"
+          "Common.TypeName": "CA3.App"
         }
       },
       {
-        "HashCode": -219990946,
+        "HashCode": 509408965,
         "Kind": "Components.Component",
-        "Name": "CA3.Pages.Index",
+        "Name": "CA3.App",
         "AssemblyName": "CA3",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "CA3.Pages.Index"
+            "TagName": "CA3.App"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "CA3.Pages.Index",
+          "Common.TypeName": "CA3.App",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -289,39 +322,6 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "CA3.Shared.NavMenu",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -734163665,
-        "Kind": "Components.Component",
-        "Name": "CA3.App",
-        "AssemblyName": "CA3",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "App"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "CA3.App"
-        }
-      },
-      {
-        "HashCode": 509408965,
-        "Kind": "Components.Component",
-        "Name": "CA3.App",
-        "AssemblyName": "CA3",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "CA3.App"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "CA3.App",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
