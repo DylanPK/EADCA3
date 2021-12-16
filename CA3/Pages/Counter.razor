@@ -8,7 +8,7 @@
 </div>
 
 @code{
-    protected new async Task OnAfterRenderAsync(bool firstRender)
+    protected override async Task OnAfterRenderAsync(bool firstRender)
     {
         if (firstRender)
         {

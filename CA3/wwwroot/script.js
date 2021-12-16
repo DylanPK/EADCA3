@@ -436,7 +436,7 @@ class PuzzleDemo {
   }
   
   function initMapGame() {
-    const map = new google.maps.Map(document.getElementById("map"), {
+    map = new google.maps.Map(document.getElementById("map"), {
       disableDefaultUI: true,
       center: { lat: 10, lng: 60 },
       zoom: 2,

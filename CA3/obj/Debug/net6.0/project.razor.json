@@ -45,39 +45,6 @@
         }
       },
       {
-        "HashCode": -2053787873,
-        "Kind": "Components.Component",
-        "Name": "CA3.Pages.Index",
-        "AssemblyName": "CA3",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Index"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "CA3.Pages.Index"
-        }
-      },
-      {
-        "HashCode": -219990946,
-        "Kind": "Components.Component",
-        "Name": "CA3.Pages.Index",
-        "AssemblyName": "CA3",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "CA3.Pages.Index"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "CA3.Pages.Index",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
         "HashCode": 264465126,
         "Kind": "Components.Component",
         "Name": "CA3.Pages.Counter",
@@ -111,88 +78,35 @@
         }
       },
       {
-        "HashCode": -734163665,
+        "HashCode": -2053787873,
         "Kind": "Components.Component",
-        "Name": "CA3.App",
+        "Name": "CA3.Pages.Index",
         "AssemblyName": "CA3",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "App"
+            "TagName": "Index"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "CA3.App"
+          "Common.TypeName": "CA3.Pages.Index"
         }
       },
       {
-        "HashCode": 509408965,
+        "HashCode": -219990946,
         "Kind": "Components.Component",
-        "Name": "CA3.App",
+        "Name": "CA3.Pages.Index",
         "AssemblyName": "CA3",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "CA3.App"
+            "TagName": "CA3.Pages.Index"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "CA3.App",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 2032916294,
-        "Kind": "Components.Component",
-        "Name": "CA3.Shared.SurveyPrompt",
-        "AssemblyName": "CA3",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "SurveyPrompt"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Title",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "Title"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "CA3.Shared.SurveyPrompt"
-        }
-      },
-      {
-        "HashCode": -543044529,
-        "Kind": "Components.Component",
-        "Name": "CA3.Shared.SurveyPrompt",
-        "AssemblyName": "CA3",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "CA3.Shared.SurveyPrompt"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Title",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "Title"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "CA3.Shared.SurveyPrompt",
+          "Common.TypeName": "CA3.Pages.Index",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -293,6 +207,59 @@
         }
       },
       {
+        "HashCode": 2032916294,
+        "Kind": "Components.Component",
+        "Name": "CA3.Shared.SurveyPrompt",
+        "AssemblyName": "CA3",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "SurveyPrompt"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Title",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Title"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "CA3.Shared.SurveyPrompt"
+        }
+      },
+      {
+        "HashCode": -543044529,
+        "Kind": "Components.Component",
+        "Name": "CA3.Shared.SurveyPrompt",
+        "AssemblyName": "CA3",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "CA3.Shared.SurveyPrompt"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Title",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Title"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "CA3.Shared.SurveyPrompt",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": 1468387851,
         "Kind": "Components.Component",
         "Name": "CA3.Shared.NavMenu",
@@ -322,6 +289,39 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "CA3.Shared.NavMenu",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -734163665,
+        "Kind": "Components.Component",
+        "Name": "CA3.App",
+        "AssemblyName": "CA3",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "App"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "CA3.App"
+        }
+      },
+      {
+        "HashCode": 509408965,
+        "Kind": "Components.Component",
+        "Name": "CA3.App",
+        "AssemblyName": "CA3",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "CA3.App"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "CA3.App",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
