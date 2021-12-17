@@ -1,0 +1,7 @@
+T:\College\EAD\CA3\EADCA3\CA3\obj\Release\net6.0\PubTmp\Out\CA3.exe
+T:\College\EAD\CA3\EADCA3\CA3\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+T:\College\EAD\CA3\EADCA3\CA3\obj\Release\net6.0\PubTmp\Out\appsettings.json
+T:\College\EAD\CA3\EADCA3\CA3\obj\Release\net6.0\PubTmp\Out\CA3.dll
+T:\College\EAD\CA3\EADCA3\CA3\obj\Release\net6.0\PubTmp\Out\CA3.deps.json
+T:\College\EAD\CA3\EADCA3\CA3\obj\Release\net6.0\PubTmp\Out\CA3.runtimeconfig.json
+T:\College\EAD\CA3\EADCA3\CA3\obj\Release\net6.0\PubTmp\Out\CA3.pdb
